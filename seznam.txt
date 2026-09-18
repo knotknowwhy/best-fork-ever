@@ -1,6 +1,6 @@
-1. Linux
 2. Python
 3. Pygame
-4. HTML
+4. HTML + CSS + JS
 5. OOP
 6. idk
+7. something new
