@@ -1,0 +1,5 @@
+1. Linux
+2. Python
+3. Pygame
+4. HTML
+5. OOP
